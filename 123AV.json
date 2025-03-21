@@ -7,9 +7,14 @@
 "open_with_safari_flag":true,
 "category": [
 	{
-			"title": "最近更新",
+			"title": "泄露未审查",
 			"url0": "https://123av.com/zh/dm2/uncensored-leaked",
 			"url1": "https://123av.com/zh/dm2/uncensored-leaked?page={pg}"
+		},
+        {		  
+		        "title": "tags/xxx-av",
+			"url0": "https://123av.com/zh/dm2/tags/xxx-av",
+			"url1": "https://123av.com/zh/dm2/tags/xxx-av?page={pg}"
 		}
 	],    
 "vod_node":"//div[contains(@class, 'box-item-list')]//div[@class='box-item']",
