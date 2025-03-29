@@ -6,15 +6,75 @@
 "referer":"https://javplayer.me/",
 "open_with_safari_flag":true,
 "category": [
-	{
+	        {
 			"title": "泄露未审查",
 			"url0": "https://123av.com/zh/dm2/uncensored-leaked",
 			"url1": "https://123av.com/zh/dm2/uncensored-leaked?page={pg}"
 		},
-        {		  
+                {		  
 		        "title": "xxx-av",
 			"url0": "https://123av.com/zh/dm2/tags/xxx-av",
 			"url1": "https://123av.com/zh/dm2/tags/xxx-av?page={pg}"
+		},
+	        {		  
+		        "title": "FC2",
+			"url0": "https://123av.com/zh/dm3/tags/fc2",
+			"url1": "https://123av.com/zh/dm3/tags/fc2?page={pg}"
+		},
+	        {		  
+		        "title": "HEYZO",
+			"url0": "https://123av.com/zh/dm25/tags/heyzo",
+			"url1": "https://123av.com/zh/dm25/tags/heyzo?page={pg}"
+		},
+	        {		  
+		        "title": "Tokyo-Hot",
+			"url0": "https://123av.com/zh/dm2/tags/tokyo-hot",
+			"url1": "https://123av.com/zh/dm2/tags/tokyo-hot?page={pg}"
+		},
+	        {		  
+		        "title": "1pondo",
+			"url0": "https://123av.com/zh/dm33/tags/1pondo",
+			"url1": "https://123av.com/zh/dm33/tags/1pondo?page={pg}"
+		},
+	        {		  
+		        "title": "Caribbeancom",
+			"url0": "https://123av.com/zh/dm34/tags/caribbeancom",
+			"url1": "https://123av.com/zh/dm34/tags/caribbeancom?page={pg}"
+		},
+	        {		  
+		        "title": "Caribbeancompr",
+			"url0": "https://123av.com/zh/dm12/tags/caribbeancompr",
+			"url1": "https://123av.com/zh/dm12/tags/caribbeancompr?page={pg}"
+		},
+	        {		  
+		        "title": "10musume",
+			"url0": "https://123av.com/zh/dm35/tags/10musume",
+			"url1": "https://123av.com/zh/dm35/tags/10musume?page={pg}"
+		},
+	        {		  
+		        "title": "pacopacomama",
+			"url0": "https://123av.com/zh/dm25/tags/pacopacomama",
+			"url1": "https://123av.com/zh/dm25/tags/pacopacomama?page={pg}"
+		},
+	        {		  
+		        "title": "Gachinco",
+			"url0": "https://123av.com/zh/dm2/tags/gachig",
+			"url1": "https://123av.com/zh/dm2/tags/gachig?page={pg}"
+		},
+	        {		  
+		        "title": "C0930",
+			"url0": "https://123av.com/zh/dm2/tags/c0930",
+			"url1": "https://123av.com/zh/dm2/tags/c0930?page={pg}"
+		},
+	        {		  
+		        "title": "H0930",
+			"url0": "https://123av.com/zh/dm2/tags/h0930",
+			"url1": "https://123av.com/zh/dm2/tags/h0930?page={pg}"
+		},
+		{		  
+		        "title": "H4610",
+			"url0": "https://123av.com/zh/dm2/tags/h4610",
+			"url1": "https://123av.com/zh/dm2/tags/h4610?page={pg}"
 		}
 	],    
 "vod_node":"//div[contains(@class, 'box-item-list')]//div[@class='box-item']",
